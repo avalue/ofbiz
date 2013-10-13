@@ -1189,6 +1189,7 @@
         <value xml:lang="cs">Storno</value>
         <value xml:lang="de">Abbrechen</value>
         <value xml:lang="en">Cancel</value>
+        <value xml:lang="lt">Atšaukti</value>
         <value xml:lang="es">Cancelar</value>
         <value xml:lang="fr">Annuler</value>
         <value xml:lang="hi_IN">रद्द करें</value>
@@ -3478,6 +3479,7 @@
         <value xml:lang="cs">Zapomněl jste heslo</value>
         <value xml:lang="de">Haben Sie Ihr Passwort vergessen?</value>
         <value xml:lang="en">Forgot Your Password</value>
+        <value xml:lang="lt">Pamiršote slaptažodį</value>
         <value xml:lang="es">¿Olvidó su contraseña</value>
         <value xml:lang="fr">Vous avez oublié votre mot de passe </value>
         <value xml:lang="hi_IN">अपना पासवर्ड भूल गये</value>
@@ -4591,6 +4593,7 @@
         <value xml:lang="cs">Jazyk</value>
         <value xml:lang="de">Sprache</value>
         <value xml:lang="en">Language</value>
+        <value xml:lang="lt">Kalba</value>
         <value xml:lang="es">Idioma</value>
         <value xml:lang="fr">Langue</value>
         <value xml:lang="hi_IN">भाषा</value>
@@ -4666,7 +4669,7 @@
     </property>
     <property key="CommonLatitude">
         <value xml:lang="de">Breitengrad: </value>
-       <value xml:lang="en">Latitude: </value>
+        <value xml:lang="en">Latitude: </value>
         <value xml:lang="es">Latitud: </value>
         <value xml:lang="fr">Latitude : </value>
         <value xml:lang="hi_IN">अक्षांश：</value>
@@ -4795,6 +4798,7 @@
         <value xml:lang="cs">Přihlásit</value>
         <value xml:lang="de">Anmelden</value>
         <value xml:lang="en">Login</value>
+        <value xml:lang="lt">Prisijungti</value>
         <value xml:lang="es">Conectar</value>
         <value xml:lang="fr">Connexion</value>
         <value xml:lang="hi_IN">लॉगइन</value>
@@ -6587,6 +6591,7 @@
         <value xml:lang="cs">Heslo</value>
         <value xml:lang="de">Passwort</value>
         <value xml:lang="en">Password</value>
+        <value xml:lang="lt">Slaptažodis</value>
         <value xml:lang="es">Clave</value>
         <value xml:lang="fr">Mot de passe</value>
         <value xml:lang="hi_IN">पासवर्ड</value>
@@ -7471,6 +7476,7 @@
         <value xml:lang="cs">Registrovaný uživatel</value>
         <value xml:lang="de">Registrierter Nutzer</value>
         <value xml:lang="en">Registered User</value>
+        <value xml:lang="lt">Registruotas vartotojas</value>
         <value xml:lang="es">Usuario registrado</value>
         <value xml:lang="fr">Utilisateur enregistré</value>
         <value xml:lang="hi_IN">पंजीकृत उपयोगकर्ता</value>
@@ -9231,6 +9237,7 @@
     <property key="CommonTimeZone">
         <value xml:lang="de">Zeitzone</value>
         <value xml:lang="en">Time Zone</value>
+        <value xml:lang="lt">Laiko juosta</value>
         <value xml:lang="es">Huso horario</value>
         <value xml:lang="fr">Fuseau horaire</value>
         <value xml:lang="hi_IN">समय क्षेत्र</value>
@@ -9895,6 +9902,7 @@
         <value xml:lang="cs">Uživatelské jméno</value>
         <value xml:lang="de">Nutzername</value>
         <value xml:lang="en">User Name</value>
+        <value xml:lang="lt">Vartotojo vardas</value>
         <value xml:lang="es">Nombre de usuario</value>
         <value xml:lang="fr">Nom de l'utilisateur</value>
         <value xml:lang="hi_IN">उपयोगकर्ता का नाम</value>

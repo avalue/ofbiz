@@ -1854,6 +1854,7 @@
     <property key="WebtoolsForSomethingInteresting">
         <value xml:lang="de">Um etwas Interessantes zu sehen sollten Sie sich anmelden; versuchen Sie: admin, Passwort: ofbiz</value>
         <value xml:lang="en">For something interesting make sure you are logged in, try username: admin, password: ofbiz</value>
+        <value xml:lang="lt">Prašome prisijungti prie sistemos, demo prisijungimo vardas: admin, slaptažodis: ofbiz</value>
         <value xml:lang="fr">Pour quelque chose d'intéressant assurez-vous que vous avez ouvert une session. Essayez avec l'identifiant de connexion : admin, et le mot de passe : ofbiz</value>
         <value xml:lang="it">Per accedere all'applicazione devi essere autenticato, prova con Nome utente:admin, Password:ofbiz</value>
         <value xml:lang="pt">Para algo interessante conecte-se, use usuÃ¡rio: admin, senha: ofbiz</value>
@@ -2668,6 +2669,7 @@
     <property key="WebtoolsMainPage">
         <value xml:lang="de">WebTools Startseite</value>
         <value xml:lang="en">Web Tools Main Page</value>
+        <value xml:lang="lt">Tinklo įrankių pagrindinis puslapis</value>
         <value xml:lang="fr">Page principale des outils web</value>
         <value xml:lang="it">Pagina principale</value>
         <value xml:lang="pt">PÃ¡gina Principal do Webtools</value>
